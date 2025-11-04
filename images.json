@@ -1,37 +1,37 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
+            "imgPath": "img/places/The_Last_of_Us_Part_I_cover.jpg",
+            "imgLocation": "The Last Of Us Part 1",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
+            "imgPath": "img/places/God_of_War_4_cover.jpg",
+            "imgLocation": "God of War (2018)",
             "description": "Austrian chapel",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
+            "imgPath": "img/places/Cyberpunk_2077_box_art.jpg",
+            "imgLocation": "Cyberpunk 2077",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
+            "imgPath": "img/places/Witcher_3_cover_art.jpg",
+            "imgLocation": "The Witcher 3: Wild Hunt",
             "description": "Greek coastline",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
+            "imgPath": "img/places/Red_Dead_Redemption_II.jpg",
+            "imgLocation": "Red Dead Redemption 2",
             "description": "Budapest skyline",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/india.jpg",
+            "imgPath": "img/places/Detroit_Become_Human.jpg",
             "imgLocation": "India",
             "description": "Taj Mahal",
             "date": "01/06/2016"
@@ -78,5 +78,5 @@
             "description": "Istanbul",
             "date": "01/13/2016"
         }
-  ]
+    ]
 }
