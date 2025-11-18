@@ -54,9 +54,9 @@ function swapPhoto() {
   // Update the .location, .description, and .date elements with the current image's details
   let currentImage = mImages[mCurrentIndex];
   $("#photo").attr("src", currentImage.imgPath);
-  $(".location").text(`Make & Model: ${currentImage.imgLocation}`);
-  $(".description").text(`Description: ${currentImage.description}`);
-  $(".date").text(`Year Created: ${currentImage.date}`);
+  $(".location").html(`Make & Model: ${currentImage.imgLocation}`);
+  $(".description").html(`Description: ${currentImage.description}`);
+  $(".date").html(`Year Created: ${currentImage.date}`);
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
@@ -83,10 +83,17 @@ function showPrevPhoto() {
   swapPhoto();
 }
 
+let mTimer;
+
 // Starter code for the timer function
 function startTimer() {
   // Create a timer to automatically call `showNextPhoto()` every mWaitTime milliseconds
   // Consider using setInterval to achieve this functionality
   // Hint: Make sure only one timer runs at a time
-
+  if (mTimer) {
+    clearInterval(mTimer);
+  }
+  mTimer = setInterval(() => {
+    showNextPhoto();
+  }, mWaitTime);
 }
