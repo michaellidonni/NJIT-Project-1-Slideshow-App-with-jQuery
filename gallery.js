@@ -54,7 +54,7 @@ function swapPhoto() {
   // Update the .location, .description, and .date elements with the current image's details
   let currentImage = mImages[mCurrentIndex];
   $("#photo").attr("src", currentImage.imgPath);
-  $(".location").html(`Make & Model: ${currentImage.imgLocation}`);
+  $(".location").html(`Game Name: ${currentImage.imgLocation}`);
   $(".description").html(`Description: ${currentImage.description}`);
   $(".date").html(`Year Created: ${currentImage.date}`);
 }

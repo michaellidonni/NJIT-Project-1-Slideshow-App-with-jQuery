@@ -2,81 +2,81 @@
     "images": [
         {
             "imgPath": "img/places/The_Last_of_Us_Part_I_cover.jpg",
-            "imgLocation": "The Last Of Us Part 1",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgLocation": "The Last of Us Part I",
+            "description": "A story-driven action-adventure following Joel and Ellie in a post-apocalyptic world.",
+            "date": "09/02/2022"
         },
         {
             "imgPath": "img/places/God_of_War_4_cover.jpg",
             "imgLocation": "God of War (2018)",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "description": "Kratos embarks on a journey with his son Atreus through Norse mythology.",
+            "date": "04/20/2018"
         },
         {
             "imgPath": "img/places/Cyberpunk_2077_box_art.jpg",
             "imgLocation": "Cyberpunk 2077",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "description": "An open-world RPG set in the futuristic Night City as players take on the role of V.",
+            "date": "12/10/2020"
         },
         {
             "imgPath": "img/places/Witcher_3_cover_art.jpg",
             "imgLocation": "The Witcher 3: Wild Hunt",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "description": "Geralt of Rivia searches for Ciri while battling monsters across a massive fantasy world.",
+            "date": "05/19/2015"
         },
         {
             "imgPath": "img/places/Red_Dead_Redemption_II.jpg",
             "imgLocation": "Red Dead Redemption 2",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "description": "Arthur Morgan and the Van der Linde gang navigate the dying days of the Wild West.",
+            "date": "10/26/2018"
         },
         {
             "imgPath": "img/places/Detroit_Become_Human.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgLocation": "Detroit: Become Human",
+            "description": "A narrative-driven game exploring android consciousness and branching choices.",
+            "date": "05/25/2018"
         },
         {
             "imgPath": "img/places/Assassins_Creed_2_Box_Art.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgLocation": "Assassin's Creed II",
+            "description": "Ezio Auditore seeks revenge in Renaissance Italy as an Assassin.",
+            "date": "11/17/2009"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/places/Kingdom_Come_Deliverance.jpg",
+            "imgLocation": "Kingdom Come: Deliverance",
+            "description": "A realistic medieval RPG focused on historical accuracy in 1400s Bohemia.",
+            "date": "02/13/2018"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/places/HogwartsLegacy.jpg",
+            "imgLocation": "Hogwarts Legacy",
+            "description": "An open-world RPG set in the Wizarding World during the 1800s.",
+            "date": "02/10/2023"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "imgPath": "img/places/Spider-Man_PS4_cover.jpg",
+            "imgLocation": "Marvel's Spider-Man",
+            "description": "Peter Parker battles villains across New York City in an action-packed adventure.",
+            "date": "09/07/2018"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "imgPath": "img/places/Elden_Ring_Box_art.jpg",
+            "imgLocation": "Elden Ring",
+            "description": "A fantasy action RPG set in the Lands Between, created with George R. R. Martin.",
+            "date": "02/25/2022"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/HeavyRain.jpg",
+            "imgLocation": "Heavy Rain",
+            "description": "A dramatic thriller following four characters tracking the Origami Killer.",
+            "date": "02/23/2010"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/places/SouthPark.jpg",
+            "imgLocation": "South Park: The Stick of Truth",
+            "description": "A comedic RPG where the player joins South Park characters on a fantasy quest.",
+            "date": "03/04/2014"
         }
     ]
 }
